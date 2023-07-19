@@ -26,4 +26,6 @@ July
 16 - 144,257 | |
 17 - | 12 |
 
+In progress: 16.3Sum_closes, 1971. Find if Path Exists in Graph
+
 In total for 17.07.2023: 23
